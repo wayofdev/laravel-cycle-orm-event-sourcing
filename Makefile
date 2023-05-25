@@ -29,7 +29,7 @@ else
 	WHITE := ""
 	RST := ""
 endif
-MAKE_LOGFILE = /tmp/wayofdev-laravel-package-tpl.log
+MAKE_LOGFILE = /tmp/wayofdev-laravel-cycle-event-sourcing.log
 MAKE_CMD_COLOR := $(BLUE)
 
 # https://phpstan.org/user-guide/output-format
@@ -43,7 +43,7 @@ help:
 	@echo
 	@echo '    📑 Logs are stored in      $(MAKE_LOGFILE)'
 	@echo
-	@echo '    📦 Package                 laravel-package-tpl (github.com/wayofdev/laravel-package-tpl)'
+	@echo '    📦 Package                 laravel-cycle-event-sourcing (github.com/wayofdev/laravel-cycle-event-sourcing)'
 	@echo '    🤠 Author                  Andrij Orlenko (github.com/lotyp)'
 	@echo '    🏢 ${YELLOW}Org                     wayofdev (github.com/wayofdev)${RST}'
 .PHONY: help
@@ -68,11 +68,11 @@ update: ## Updates composer dependencies by running composer update command
 # Testing
 # ------------------------------------------------------------------------------------
 cs-diff: prepare ## Runs php-cs-fixer in dry-run mode and shows diff which will by applied
-	$(COMPOSER_RUN) cs-diff
+	$(COMPOSER_RUN) cs:diff
 .PHONY: cs-diff
 
 cs-fix: prepare ## Fixes code to follow coding standards using php-cs-fixer
-	$(COMPOSER_RUN) cs-fix
+	$(COMPOSER_RUN) cs:fix
 .PHONY: cs-fix
 
 stan: ## Runs phpstan – static analysis tool
@@ -80,7 +80,7 @@ stan: ## Runs phpstan – static analysis tool
 .PHONY: stan
 
 stan-ci:
-	$(COMPOSER_RUN) stan-ci
+	$(COMPOSER_RUN) stan:ci
 .PHONY: stan-ci
 
 test: ## Run project php-unit and pest tests
@@ -88,7 +88,7 @@ test: ## Run project php-unit and pest tests
 .PHONY: test
 
 test-cc: ## Run project php-unit and pest tests in coverage mode and build report
-	$(COMPOSER_RUN) test-cc
+	$(COMPOSER_RUN) test:cc
 .PHONY: test-cc
 
 # Yaml Actions
