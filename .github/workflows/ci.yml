@@ -18,7 +18,6 @@ jobs:
       matrix:
         os: ["ubuntu-22.04"]
         php: ["8.1", "8.2"]
-
     steps:
       - name: 📦 Check out the codebase
         uses: actions/checkout@v3
@@ -27,7 +26,7 @@ jobs:
         uses: shivammathur/setup-php@v2
         with:
           php-version: ${{ matrix.php }}
-          extensions: dom, curl, libxml, mbstring, zip, fileinfo
+          extensions: curl, mbstring, zip, fileinfo
           ini-values: error_reporting=E_ALL
           tools: composer:v2
           coverage: none
@@ -37,19 +36,27 @@ jobs:
           echo "::add-matcher::${{ runner.tool_cache }}/php.json"
           echo "::add-matcher::${{ runner.tool_cache }}/phpunit.json"
 
-      - name: ♻️ Load cached dependencies
+      - name: ♻️ Restore cached dependencies
         id: cached-composer-dependencies
         uses: actions/cache@v3
         with:
           path: vendor
-          key: vendor-${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
+          key: vendor-${{ runner.os }}-${{ hashFiles('**/composer.lock') }}-${{ matrix.php }}
 
       - name: 📥 Install dependencies
         if: steps.cached-composer-dependencies.outputs.cache-hit != 'true'
         run: composer install
 
+      - name: 🛠️ Prepare environment
+        run: |
+          mkdir -p ./.build/php-cs-fixer
+          mkdir -p ./.build/phpstan
+          mkdir -p ./.build/phpunit
+
       - name: 🚨 Run coding standards task
         run: make cs-diff
+        env:
+          PHP_CS_FIXER_IGNORE_ENV: true
 
       - name: 🧪 Execute phpunit and pest tests
         run: make test
@@ -58,5 +65,12 @@ jobs:
         run: make stan
         env:
           PHPSTAN_OUTPUT_FORMAT: github
+
+      - name: 📤 Upload coverage report to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          files: ./coverage.xml
+          verbose: true
 
 ...
