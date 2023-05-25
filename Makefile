@@ -93,7 +93,7 @@ test-cc: ## Run project php-unit and pest tests in coverage mode and build repor
 
 # Yaml Actions
 # ------------------------------------------------------------------------------------
-lint: ## Lints yaml files inside project
+lint-yaml: ## Lints yaml files inside project
 	yamllint .
 .PHONY: lint
 
