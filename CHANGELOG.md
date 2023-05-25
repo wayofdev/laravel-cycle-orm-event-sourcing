@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-05-25)
+
+
+### Features
+
+* update actions ([3e20d21](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/3e20d2158572c248f29e338adfb136331b4c2d55))
+
 ## [1.1.36](https://github.com/wayofdev/laravel-package-tpl/compare/v1.1.35...v1.1.36) (2023-05-24)
 
 
