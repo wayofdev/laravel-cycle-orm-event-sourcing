@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.0.0...v1.1.0) (2023-05-25)
+
+
+### Features
+
+* add aggregatable traits ([01288b7](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/01288b7e627210b44da1a4b7856b468aea95d5f9))
+
+
+### Bug Fixes
+
+* **ci:** missing dir in phpstan config ([dcab585](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/dcab585f71a9e1d98f03fb9f74a9a9bd1c12a996))
+* **ci:** missing php dep ([6c01670](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/6c01670c99e17e7cb27bc94d9e8df6d56da3ff6e))
+
 ## 1.0.0 (2023-05-25)
 
 
