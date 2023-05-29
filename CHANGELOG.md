@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.1...v1.1.2) (2023-05-29)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan-phpunit to v1.3.13 ([dfc02e8](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/dfc02e814083b47fc1a1df8bc114ba0628eabfc5))
+
 ## [1.1.1](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.0...v1.1.1) (2023-05-29)
 
 
