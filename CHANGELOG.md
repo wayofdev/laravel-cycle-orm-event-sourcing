@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.12](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.11...v1.1.12) (2023-06-07)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.6.3 ([cd1f5a7](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/cd1f5a7052b7e6a17d531892c69c49d1ff710e3c))
+
 ## [1.1.11](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.10...v1.1.11) (2023-06-07)
 
 
