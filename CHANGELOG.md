@@ -1,5 +1,116 @@
 # Changelog
 
+## [1.1.14](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.13...v1.1.14) (2023-06-08)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.11 ([bb12cdc](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/bb12cdc7872ec376981c0f721b55c4cbf605876c))
+
+## [1.1.13](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.12...v1.1.13) (2023-06-07)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.18 ([62be397](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/62be3975800667bf26c985fc12028f17da0c51d3))
+
+## [1.1.12](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.11...v1.1.12) (2023-06-07)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.6.3 ([cd1f5a7](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/cd1f5a7052b7e6a17d531892c69c49d1ff710e3c))
+
+## [1.1.11](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.10...v1.1.11) (2023-06-07)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.10 ([ccaf60f](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/ccaf60f11e6af89d6753688a5f8aaa5e1feecbe2))
+
+## [1.1.10](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.9...v1.1.10) (2023-06-07)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.17 ([6752a39](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/6752a3969a5f0563f5dcd15ebf206768f6226d8c))
+
+## [1.1.9](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.8...v1.1.9) (2023-06-06)
+
+
+### Miscellaneous
+
+* **deps:** update dependency nunomaduro/larastan to v2.6.1 ([ca2ffe6](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/ca2ffe69be740ad47b913c4aaf3b508b70eaffd7))
+
+## [1.1.8](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.7...v1.1.8) (2023-06-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.9 ([77a3020](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/77a3020442a518feb170b2541bb24e73a421331d))
+
+## [1.1.7](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.6...v1.1.7) (2023-06-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.8 ([6885861](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/68858615ac10cca5c3dccce4eb03644be39c1ba3))
+
+## [1.1.6](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.5...v1.1.6) (2023-06-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.16 ([f337b56](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/f337b56ce263d52d5c26e8dbb0645d722a9c4aca))
+
+## [1.1.5](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.4...v1.1.5) (2023-06-02)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.6.2 ([8f2b28a](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/8f2b28af0da290aa621da7ca2f95a1ac88c6daa8))
+
+## [1.1.4](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.3...v1.1.4) (2023-06-02)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.7 ([bd804df](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/bd804df04ed0850bf820c598df705d5353f76b15))
+
+## [1.1.3](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.2...v1.1.3) (2023-05-30)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.5.5 ([05423bf](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/05423bf6256a3ed1945b23212a04ddb3fc1b74f4))
+
+## [1.1.2](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.1...v1.1.2) (2023-05-29)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan-phpunit to v1.3.13 ([dfc02e8](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/dfc02e814083b47fc1a1df8bc114ba0628eabfc5))
+
+## [1.1.1](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.0...v1.1.1) (2023-05-29)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.6 ([f0571e9](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/f0571e9813c484ca4e6460700424fd0c102be14f))
+
+## [1.1.0](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.0.0...v1.1.0) (2023-05-25)
+
+
+### Features
+
+* add aggregatable traits ([01288b7](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/01288b7e627210b44da1a4b7856b468aea95d5f9))
+
+
+### Bug Fixes
+
+* **ci:** missing dir in phpstan config ([dcab585](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/dcab585f71a9e1d98f03fb9f74a9a9bd1c12a996))
+* **ci:** missing php dep ([6c01670](https://github.com/wayofdev/laravel-cycle-event-sourcing/commit/6c01670c99e17e7cb27bc94d9e8df6d56da3ff6e))
+
 ## 1.0.0 (2023-05-25)
 
 
