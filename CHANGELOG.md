@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.1.14...v1.2.0) (2023-06-09)
+
+
+### Features
+
+* changing repository name ([2a583e5](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/2a583e57445c7c1c893930d191a3548ba91fc403))
+
 ## [1.1.14](https://github.com/wayofdev/laravel-cycle-event-sourcing/compare/v1.1.13...v1.1.14) (2023-06-08)
 
 
