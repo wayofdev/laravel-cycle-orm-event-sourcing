@@ -1,8 +1,8 @@
 <br>
 
 <div align="center">
-<img width="456" src="https://raw.githubusercontent.com/wayofdev/ansible-role-tpl/master/assets/logo.gh-light-mode-only.png#gh-light-mode-only">
-<img width="456" src="https://raw.githubusercontent.com/wayofdev/ansible-role-tpl/master/assets/logo.gh-dark-mode-only.png#gh-dark-mode-only">
+<img width="456" src="https://raw.githubusercontent.com/wayofdev/laravel-cycle-orm-event-sourcing/master/assets/logo.gh-light-mode-only.png#gh-light-mode-only">
+<img width="456" src="https://raw.githubusercontent.com/wayofdev/laravel-cycle-orm-event-sourcing/master/assets/logo.gh-dark-mode-only.png#gh-dark-mode-only">
 </div>
 
 
@@ -11,11 +11,11 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/wayofdev/laravel-package-tpl/actions"><img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fwayofdev%2Flaravel-package-tpl%2Fbadge&style=flat-square"/></a>
-<a href="https://packagist.org/packages/wayofdev/laravel-package-tpl"><img src="https://img.shields.io/packagist/dt/wayofdev/laravel-package-tpl?&style=flat-square" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/wayofdev/laravel-package-tpl"><img src="https://img.shields.io/packagist/v/wayofdev/laravel-package-tpl?&style=flat-square" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/wayofdev/laravel-package-tpl"><img src="https://img.shields.io/packagist/l/wayofdev/laravel-package-tpl?style=flat-square&color=blue" alt="Software License"/></a>
-<a href="https://packagist.org/packages/wayofdev/laravel-package-tpl"><img alt="Commits since latest release" src="https://img.shields.io/github/commits-since/wayofdev/laravel-package-tpl/latest?style=flat-square"></a>
+<a href="https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/actions"><img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fwayofdev%2Flaravel-cycle-orm-event-sourcing%2Fbadge&style=flat-square"/></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-cycle-orm-event-sourcing"><img src="https://img.shields.io/packagist/dt/wayofdev/laravel-cycle-orm-event-sourcing?&style=flat-square" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-cycle-orm-event-sourcing"><img src="https://img.shields.io/packagist/v/wayofdev/laravel-cycle-orm-event-sourcing?&style=flat-square" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-cycle-orm-event-sourcing"><img src="https://img.shields.io/packagist/l/wayofdev/laravel-cycle-orm-event-sourcing?style=flat-square&color=blue" alt="Software License"/></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-cycle-orm-event-sourcing"><img alt="Commits since latest release" src="https://img.shields.io/github/commits-since/wayofdev/laravel-cycle-orm-event-sourcing/latest?style=flat-square"></a>
 </div>
 
 <br>
@@ -35,7 +35,7 @@ If you **like/use** this package, please consider **starring** it. Thanks!
 Require as dependency:
 
 ```bash
-$ composer req wayofdev/laravel-package-tpl
+$ composer req wayofdev/laravel-cycle-orm-event-sourcing
 ```
 
 <br>
@@ -70,7 +70,7 @@ $ make cs-fix
 
 ## 🤝 License
 
-[![Licence](https://img.shields.io/github/license/wayofdev/laravel-package-tpl?style=for-the-badge&color=blue)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/wayofdev/laravel-cycle-orm-event-sourcing?style=for-the-badge&color=blue)](./LICENSE)
 
 <br>
 

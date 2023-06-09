@@ -43,7 +43,7 @@ help:
 	@echo
 	@echo '    📑 Logs are stored in      $(MAKE_LOGFILE)'
 	@echo
-	@echo '    📦 Package                 laravel-cycle-event-sourcing (github.com/wayofdev/laravel-cycle-event-sourcing)'
+	@echo '    📦 Package                 laravel-cycle-event-sourcing (github.com/wayofdev/laravel-cycle-orm-event-sourcing)'
 	@echo '    🤠 Author                  Andrij Orlenko (github.com/lotyp)'
 	@echo '    🏢 ${YELLOW}Org                     wayofdev (github.com/wayofdev)${RST}'
 .PHONY: help
