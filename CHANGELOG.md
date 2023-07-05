@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.10](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.9...v1.2.10) (2023-07-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.24 ([7617346](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/7617346199b8e6678d303be932c218c3a6a0dc4b))
+
 ## [1.2.9](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.8...v1.2.9) (2023-07-04)
 
 
