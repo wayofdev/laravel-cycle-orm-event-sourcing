@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.27](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.26...v1.2.27) (2023-07-19)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.8.3 ([2492959](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/2492959ad3ad3fc0cbae82972d33bc44bd3b5223))
+
 ## [1.2.26](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.25...v1.2.26) (2023-07-19)
 
 
