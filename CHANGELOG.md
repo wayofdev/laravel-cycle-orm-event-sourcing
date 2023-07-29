@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.33](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.32...v1.2.33) (2023-07-29)
+
+
+### Miscellaneous
+
+* **deps:** update dependency nunomaduro/larastan to v2.6.4 ([92abdf8](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/92abdf84972ab621e45579c46bb934a56102287f))
+
 ## [1.2.32](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.31...v1.2.32) (2023-07-28)
 
 
