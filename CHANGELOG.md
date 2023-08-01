@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.35](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.34...v1.2.35) (2023-08-01)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.5.11 ([4eb2114](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/4eb2114670f478e1b2f307b116c9349d8e3cbf1b))
+* **deps:** update dependency pestphp/pest to v2.10.1 ([b8dc028](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/b8dc02892a1b25d3b28100f7a2695f39fcdb5d13))
+
 ## [1.2.34](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.33...v1.2.34) (2023-07-31)
 
 
