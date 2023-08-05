@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.41](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.40...v1.2.41) (2023-08-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan-deprecation-rules to v1.1.4 ([ca1347e](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/ca1347eed60a0abbdc66413c6447aaa3fadeb6e6))
+
 ## [1.2.40](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.39...v1.2.40) (2023-08-04)
 
 
