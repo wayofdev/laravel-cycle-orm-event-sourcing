@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.49](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.48...v1.2.49) (2023-08-11)
+
+
+### Miscellaneous
+
+* **deps:** update dependency ergebnis/composer-normalize to v2.35.0 ([1ed5f48](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/1ed5f484559a98a781e2038e3343993f897e84bf))
+
 ## [1.2.48](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.47...v1.2.48) (2023-08-09)
 
 
