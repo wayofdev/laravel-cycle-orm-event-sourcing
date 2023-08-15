@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.56](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.55...v1.2.56) (2023-08-15)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpunit/phpunit to v10.3.1 ([523ee6c](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/523ee6c1fbf1fc2f4292db5b1b47f21a57aff6b5))
+
 ## [1.2.55](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.54...v1.2.55) (2023-08-14)
 
 
