@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.57](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.56...v1.2.57) (2023-08-15)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.44 ([d89c45b](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/d89c45b4d867a9bd39c09ca5da79adc098d6b904))
+
 ## [1.2.56](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.55...v1.2.56) (2023-08-15)
 
 
