@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.65](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.64...v1.2.65) (2023-08-25)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan-phpunit to v1.3.14 ([4c2b1ad](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/4c2b1adf9be3c816440d06f429d1bf6276caea49))
+
 ## [1.2.64](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.63...v1.2.64) (2023-08-24)
 
 
