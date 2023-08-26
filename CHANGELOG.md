@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.67](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.66...v1.2.67) (2023-08-26)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.9.1 ([5ff9e10](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/5ff9e10a1ab341b240e00a37e011826b0f680b5e))
+
 ## [1.2.66](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.65...v1.2.66) (2023-08-25)
 
 
