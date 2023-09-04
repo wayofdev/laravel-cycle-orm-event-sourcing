@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.73](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.72...v1.2.73) (2023-09-04)
+
+
+### Miscellaneous
+
+* **deps:** update actions/checkout action to v4 ([aac7884](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/aac7884fc464db320ede29c2c5bb6f10fd62003f))
+
 ## [1.2.72](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.71...v1.2.72) (2023-09-04)
 
 
