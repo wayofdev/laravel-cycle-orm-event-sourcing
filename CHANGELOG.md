@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.80](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.79...v1.2.80) (2023-09-14)
+
+
+### Miscellaneous
+
+* **deps:** update codecov/codecov-action action to v4 ([2801fc7](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/2801fc746bc906e8a38e6af878014d34158081f5))
+
 ## [1.2.79](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.78...v1.2.79) (2023-09-13)
 
 
