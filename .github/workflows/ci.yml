@@ -67,7 +67,7 @@ jobs:
           PHPSTAN_OUTPUT_FORMAT: github
 
       - name: 📤 Upload coverage report to Codecov
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v4
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           files: ./coverage.xml
