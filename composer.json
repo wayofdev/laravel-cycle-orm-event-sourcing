@@ -20,7 +20,7 @@
         "ext-json": "*",
         "beberlei/assert": "^3.3",
         "eventsauce/eventsauce": "^3.4",
-        "illuminate/contracts": "^10.13"
+        "illuminate/contracts": "^11.0"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.31",
