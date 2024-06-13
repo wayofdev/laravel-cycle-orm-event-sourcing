@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.81...v1.3.0) (2024-06-13)
+
+
+### Features
+
+* laravel 11.x support ([6c41390](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/commit/6c41390a2f42898ac3d4eaa71e8b011e22d7eb2e))
+
 ## [1.2.81](https://github.com/wayofdev/laravel-cycle-orm-event-sourcing/compare/v1.2.80...v1.2.81) (2023-09-14)
 
 
