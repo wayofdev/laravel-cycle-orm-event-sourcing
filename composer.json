@@ -19,12 +19,12 @@
         "ext-decimal": "*",
         "ext-json": "*",
         "beberlei/assert": "^3.3",
-        "eventsauce/eventsauce": "^3.4",
-        "illuminate/contracts": "^10.13"
+        "eventsauce/eventsauce": "^3.6",
+        "illuminate/contracts": "^10.13 || ^11.0"
     },
     "require-dev": {
-        "ergebnis/composer-normalize": "^2.31",
-        "nunomaduro/larastan": "^2.6",
+        "ergebnis/composer-normalize": "^2.42",
+        "larastan/larastan": "^2.9",
         "orchestra/testbench": "^8.5",
         "pestphp/pest": "^2.6",
         "pestphp/pest-plugin-laravel": "^2.0",
